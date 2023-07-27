@@ -1,7 +1,6 @@
 import os
 import sys
 import speedtest
-import json
 from typing import Optional, List, Dict, Tuple, Any
 from oauth2client.service_account import ServiceAccountCredentials
 from gspread import authorize
